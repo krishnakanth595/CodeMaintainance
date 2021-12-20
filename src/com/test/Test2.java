@@ -7,6 +7,6 @@ public class Test2 {
 		
 	}
 	public void testMethod2() {
-		
+		System.out.println("new test method2");
 	}
 }
