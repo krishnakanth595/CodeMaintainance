@@ -9,6 +9,8 @@ public class Test1 {
 		System.out.println("hello...");
 
 	}
-	public void test3() {}
+	public void test3() {
+		System.out.println("this is test3");
+	}
 
 }
