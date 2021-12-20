@@ -6,6 +6,8 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		System.out.println("new feature 3 commit");
 	}
-	public void test3() {}
+	public void test3() {
+		System.out.println("this is test3");
+	}
 
 }
